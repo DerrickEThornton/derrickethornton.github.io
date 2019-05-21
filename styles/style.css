@@ -8,7 +8,7 @@ html, body {
 header {
 	height: inherit;
 	width: inherit;
-	background: linear-gradient(to right, #614385, #516395);
+	background: linear-gradient(to right, #009FFF, #ec2F4B);
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -52,6 +52,12 @@ footer {
 }
 a i {
 	color: white;
+}
+nav a {
+	color: white;
+}
+nav a:hover {
+	color: tomato;
 }
 article img {
 	height: 300px;
