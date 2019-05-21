@@ -7,7 +7,7 @@ html, body {
 header {
 	height: inherit;
 	width: inherit;
-	background: linear-gradient(to right, #26d9d9, #ffffff);
+	background: linear-gradient(to right, #614385, #516395);
 	display: flex;
 	justify-content: center;
 	align-items: center;
