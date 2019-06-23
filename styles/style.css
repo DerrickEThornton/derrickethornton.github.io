@@ -59,6 +59,7 @@ nav a {
 nav a:hover {
 	color: tomato;
 }
+
 article img {
 	height: 300px;
 	width: 300px;
@@ -66,4 +67,5 @@ article img {
 #portfolio {
 	display: flex;
 	justify-content: center;
+	flex-wrap: wrap;
 }
