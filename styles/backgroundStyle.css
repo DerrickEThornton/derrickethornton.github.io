@@ -40,3 +40,19 @@ a:hover {
     background-color: white;
     color: black;
 }
+
+/*For phone screen*/
+@media only screen and (max-width: 600px) {
+    h1 {
+        font: 600 1.5em 'Raleway', sans-serif;
+    }
+} 
+/*For super small screen*/
+@media only screen and (max-width: 400px) {
+    h1 {
+        font: 600 1em 'Raleway', sans-serif;
+    }
+    a {
+        font-size: 0.5em;
+    }
+}
